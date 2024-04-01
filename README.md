@@ -58,10 +58,10 @@ In this project, you will analyze customer-level data of a leading telecom firm,
     * Hypermeter tunning - Random forest
     * Finding Optimal Cutoff Point - Random forest
     * Evaluation metrics - Random forest
-* Applying XBboosting
-      * Hypermeter tunning - XGBoosting
-      * Finding Optimal Cutoff Point - XGBoosting
-      * Evaluation metrics - XGBoosting
+  * Applying XBboosting
+    * Hypermeter tunning - XGBoosting
+    * Finding Optimal Cutoff Point - XGBoosting
+    * Evaluation metrics - XGBoosting
 * Model selection
   * Comparing all the models
 * Select important features from XGB classifer
